@@ -15,3 +15,10 @@
 | Hom<sub>Set</sub>(X, Y) | The set of functions that map X -> Y |
 | ⥲         | Isomorphs |
 | ≅         | Is an isomorphism of |
+
+### Definitions
+
+| Word       | Definition |
+|------------|------------|
+| Isomorphic | A -> B and B -> A |
+| Commutative set | There exist multiple ways to map from A to B |
